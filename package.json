@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "wo-yao-yan-pai.helloWorld",
-        "title": "Hello World"
+        "command": "wo-yao-yan-pai.yan-pai",
+        "title": "我要验牌！"
       }
     ]
   },
