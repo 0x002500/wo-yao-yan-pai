@@ -2,6 +2,7 @@
   "name": "wo-yao-yan-pai",
   "displayName": "wo-yao-yan-pai",
   "description": "I want to check the codes😎",
+  "publisher": "0x002500",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.109.0"
